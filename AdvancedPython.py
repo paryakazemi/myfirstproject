@@ -148,4 +148,4 @@ saltasis=int(input("lotfan saltasis madrase ra vared konid?"))
 scl=school(namemadrase,saltasis,liststudent,listteacher)
 listschool=[]
 listschool.append(scl)
-scl.showAll()
+#scl.showAll()
